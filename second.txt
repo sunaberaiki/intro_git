@@ -3,4 +3,6 @@ second.txt
 再度お試し
 こっちの変更が本命
 third.txtを削除
-maindesu
+test1
+test2の追加
+test
